@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Smart Travel Planner
 
 Minimal, AI-powered travel planner to organize trips, itineraries, budgets, and documents in one workspace.
@@ -37,3 +38,7 @@ Minimal, AI-powered travel planner to organize trips, itineraries, budgets, and 
 - `GET/POST/PUT/DELETE /itinerary`
 - `GET/POST/PUT/DELETE /expenses`
 - `GET/POST/DELETE /documents` and `GET /documents/download/{doc_id}`
+=======
+# AI-powered-travel-management
+AI-powered travel management platform to plan, organize, and manage trips efficiently. Includes smart itinerary generation, expense tracking, document storage, and trip management in a clean UI. Built with FastAPI, React, and MongoDB, designed for scalability and future AI enhancements.
+>>>>>>> 1f4ea8d9930bf4c322e6bb1a8c6272a26df4d4fd
